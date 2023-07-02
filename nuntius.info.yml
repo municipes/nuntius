@@ -14,6 +14,7 @@ dependencies:
   - focal_point:focal_point
   - imce:imce
   - inline_entity_form:inline_entity_form
+  - node_read_time:node_read_time
   - type_tray:type_tray
   - ui_patterns_field_formatters:ui_patterns_field_formatters
   - viewsreference:viewsreference
